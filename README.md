@@ -1,6 +1,8 @@
 # hypixelskyblockmod
 hypixel skyblock mod allows u to cheat in verious ways around hypixel
 all keybinds can be set at the very bottom of the controls page
+has to be forge 1.8.9
+
 features:
 
 1. crop nuker, nukes crops in a 5 block radius to you
